@@ -1,0 +1,18 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "CMU - 17648 - EDISS - Project 1",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.16.1",
+    "body-parser": "^1.19.0",
+    "mysql": "^2.17.1",
+    "uuid": "^3.3.2",
+    "redis": "^2.8.0",
+    "connect-redis": "^3.4.2"
+  },
+  "author": "Kshitij Gurjar"
+}
